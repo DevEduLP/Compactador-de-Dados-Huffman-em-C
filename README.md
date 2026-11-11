@@ -64,4 +64,4 @@ Texto Descompactado: abracadabra
 
 ## 👤 Autor
 
-Desenvolvido por **Seu Nome**.
+Desenvolvido por **Eduardo Livi**.
